@@ -1,0 +1,8 @@
+*.egg-info
+__pycache__/
+test.py
+.DS_Store
+.python-version
+pyrightconfig.json
+
+docker-compose.yml
